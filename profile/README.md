@@ -10,7 +10,7 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?org=PyMath-Projects&show_icons=true&theme=radical&username=MduduziMlilo&include_all_commits=true&count_private"/>
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?org=PyMath-Projects&show_icons=true&theme=radical&username=MduduziMlilo&include_all_commits=true&count_private&custom_title=PyMath-Projects`%20Statistics"/>
   
 <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?org=PyMath-Projects&layout=compact&username=MduduziMlilo&include_all_commits=true&count_private"/> 
 </div> 
