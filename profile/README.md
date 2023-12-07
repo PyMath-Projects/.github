@@ -11,9 +11,9 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?username=PyMath-Projects&show_icons=true&theme=radical"/>
+  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?org=PyMath-Projects&show_icons=true&theme=radical"/>
   
-  <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact"/> 
+  <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?org=PyMath-Projects&layout=compact"/> 
 </div> 
 
 <p align="left">
