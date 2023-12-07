@@ -10,10 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<div style="display: flex; justify-content: space-between;">
-  <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?org=PyMath-Projects&show_icons=true&theme=radical&username=MduduziMlilo"/>
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api?org=PyMath-Projects&show_icons=true&theme=radical&username=MduduziMlilo&include_all_commits=true"/>
   
-  <img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?org=PyMath-Projects&layout=compact&username=MduduziMlilo"/> 
+<img width="30.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?org=PyMath-Projects&layout=compact&username=MduduziMlilo&include_all_commits=true"/> 
 </div> 
 
 <p align="left">
@@ -24,4 +23,3 @@
   <a href="https://linkedin.com/in/mduduzimlilo/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=plum&logoColor=blue" alt="Mduduzi Mlilo's LinkedIn"/>
   </a>
-</p>
