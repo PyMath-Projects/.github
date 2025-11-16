@@ -28,7 +28,7 @@
 
   <div align="center">
     <img height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=PyMathProjects&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=1A1B27&custom_title=PyMath%20Projects%20Statistics"/>
+  src="https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=1A1B27&custom_title=PyMath%20Projects%20Statistics"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&langs_count=8"/>
   </div>
 
