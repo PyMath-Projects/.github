@@ -16,7 +16,7 @@
 
   <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MduduziMlilo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeaOatter&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MduduziMlilo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8"/>
   </div>
 
   <div align="center">
