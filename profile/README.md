@@ -4,7 +4,6 @@
 
   ### Software Engineer | Full Stack Developer | Tech Enthusiast
 
-  [![Twitter Follow](https://img.shields.io/twitter/follow/SeaOatter?style=social)](http://twitter.com/SeaOatter)
   [![GitHub followers](https://img.shields.io/github/followers/MduduziMlilo?label=Follow&style=social)](https://github.com/MduduziMlilo)
 
   </div>
